@@ -56,6 +56,9 @@
         </developer>
     </developers>
 
+    <properties>
+    <sonar.organization>makkima16</sonar.organization>
+    </properties>
 
     <properties>
         <otp.serialization.version.id>201</otp.serialization.version.id>
